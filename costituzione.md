@@ -674,7 +674,7 @@ Conferisce le onorificenze della Repubblica.
 
 Il Presidente della Repubblica può, sentiti i loro Presidenti, sciogliere le Camere o anche una sola di esse.
 
-Non può esercitare tale facoltà negli ultimi sei mesi del suo mandato.
+Non può esercitare tale facoltà negli ultimi sei mesi del suo mandato, salvo che essi coincidano in tutto o in parte con gli ultimi sei mesi della legislatura.
 
 ##### Art. 89.
 
