@@ -508,11 +508,11 @@ Ogni membro del Parlamento rappresenta la Nazione ed esercita le sue funzioni se
 
 ###### Art. 68.
 
-I membri del Parlamento non possono essere perseguiti per le opinioni espresse e i voti dati nell'esercizio delle loro funzioni.
+I membri del Parlamento non possono essere chiamati a rispondere delle opinioni espresse e dei voti dati nell'esercizio delle loro funzioni.
 
-Senza autorizzazione della Camera alla quale appartiene, nessun membro del Parlamento può essere sottoposto a procedimento penale; né può essere arrestato o altrimenti privato della libertà personale, o sottoposto a perquisizione personale o domiciliare, salvo che sia colto nell'atto di commettere un delitto per il quale è obbligatorio il mandato o l'ordine di cattura.
+Senza autorizzazione della Camera alla quale appartiene, nessun membro del Parlamento può essere sottoposto a perquisizione personale o domiciliare, né può essere arrestato o altrimenti privato della libertà personale, o mantenuto in detenzione, salvo che in esecuzione di una sentenza irrevocabile di condanna, ovvero se sia colto nell'atto di commettere un delitto per il quale è previsto l'arresto obbligatorio in flagranza.
 
-Eguale autorizzazione è richiesta per trarre in arresto o mantenere in detenzione un membro del Parlamento in esecuzione di una sentenza anche irrevocabile.
+Analoga autorizzazione è richiesta per sottoporre i membri del Parlamento ad intercettazioni, in qualsiasi forma, di conversazioni o comunicazioni e a sequestro di corrispondenza
 
 ###### Art. 69.
 
