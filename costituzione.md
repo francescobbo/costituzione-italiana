@@ -586,9 +586,11 @@ Le Camere deliberano lo stato di guerra e conferiscono al Governo i poteri neces
 
 ###### Art. 79.
 
-L'amnistia e l'indulto sono concessi dal Presidente della Repubblica su legge di delegazione delle Camere.
+L'amnistia e l'indulto sono concessi con legge deliberata a maggioranza dei due terzi dei componenti di ciascuna Camera, in ogni suo articolo e nella votazione finale.
 
-Non possono applicarsi ai reati commessi successivamente alla proposta di delegazione.
+La legge che concede l'amnistia o l'indulto stabilisce il termine per la loro applicazione.
+
+In ogni caso l'amnistia e l'indulto non possono applicarsi ai reati commessi successivamente alla presentazione del disegno di legge.
 
 ###### Art. 80.
 
