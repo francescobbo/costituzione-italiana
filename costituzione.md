@@ -426,17 +426,23 @@ Il Parlamento si riunisce in seduta comune dei membri delle due Camere nei soli 
 
 ###### Art. 56.
 
-La Camera dei deputati è eletta a suffragio universale e diretto, in ragione di un deputato per ottantamila abitanti o per frazione superiore a quarantamila.
+La Camera dei deputati e' eletta a suffragio universale e diretto.
+
+Il numero dei deputati e' di seicentotrenta.
 
 Sono eleggibili a deputati tutti gli elettori che nel giorno delle elezioni hanno compiuto i venticinque anni di età.
+
+La ripartizione dei seggi tra le circoscrizioni si effettua dividendo il numero degli abitanti della Repubblica, quale risulta dall'ultimo censimento generale della popolazione, per seicentotrenta e distribuendo i seggi in proporzione alla popolazione di ogni circoscrizione, sulla base dei quozienti interi e dei più alti resti.
 
 ###### Art. 57.
 
 Il Senato della Repubblica è eletto a base regionale.
 
-A ciascuna Regione è attribuito un senatore per duecentomila abitanti o per frazione superiore a centomila.
+Il numero dei senatori elettivi e' di trecentoquindici.
 
-Nessuna Regione può avere un numero di senatori inferiore a sei. La Valle d'Aosta ha un solo senatore.
+Nessuna Regione può avere un numero di senatori inferiore a sette. La Valle d'Aosta ha un solo senatore.
+
+La ripartizione dei seggi tra le Regioni, previa applicazione delle disposizioni del precedente - comma, si effettua in proporzione alla popolazione delle Regioni, quale risulta dall'ultimo censimento generale, sulla base dei quozienti interi e dei più alti resti.
 
 ###### Art. 58.
 
@@ -452,7 +458,7 @@ Il Presidente della Repubblica può nominare senatori a vita cinque cittadini ch
 
 ###### Art. 60.
 
-La Camera dei deputati è eletta per cinque anni, il Senato della Repubblica per sei.
+La Camera dei deputati e il Senato della Repubblica sono eletti per cinque anni.
 
 La durata di ciascuna Camera non può essere prorogata se non per legge e soltanto in caso di guerra.
 
