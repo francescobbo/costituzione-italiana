@@ -382,7 +382,7 @@ Tutti i cittadini possono rivolgere petizioni alle Camere per chiedere provvedim
 
 ##### Art. 51.
 
-Tutti i cittadini dell'uno o dell'altro sesso possono accedere agli uffici pubblici e alle cariche elettive in condizioni di eguaglianza, secondo i requisiti stabiliti dalla legge.
+Tutti i cittadini dell'uno o dell'altro sesso possono accedere agli uffici pubblici e alle cariche elettive in condizioni di eguaglianza, secondo i requisiti stabiliti dalla legge. A tale fine la Repubblica promuove con appositi provvedimenti le pari opportunità tra donne e uomini.
 
 La legge può, per l'ammissione ai pubblici uffici e alle cariche elettive, parificare ai cittadini gli italiani non appartenenti alla Repubblica.
 
