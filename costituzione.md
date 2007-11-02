@@ -196,7 +196,7 @@ L'imputato non è considerato colpevole sino alla condanna definitiva.
 
 Le pene non possono consistere in trattamenti contrari al senso di umanità e devono tendere alla rieducazione del condannato.
 
-Non è ammessa la pena di morte, se non nei casi previsti dalle leggi militari di guerra.
+Non è ammessa la pena di morte.
 
 ##### Art. 28.
 
